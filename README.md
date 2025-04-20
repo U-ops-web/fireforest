@@ -2,7 +2,7 @@
 # Project Title
 
 forest fire prediction by using machine learninig
-
+please subcrib to our channel
 
 ## Acknowledgements
 
